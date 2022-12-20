@@ -33,9 +33,9 @@ Refactored the following on HTML and CSS files for the Horiseon webpage:
 [Deployed Challenge 1 Refactor Repo](https://abmetheny.github.io/challenge-1-refactor-repo/)
 
 ## Screenshots
-<img src="Screenshot1.png">
-<img src="Screenshot2.png">
-<img src="Screenshot3.png">
+<img src="./assets/images/Screenshot1.png">
+<img src="./assets/images/Screenshot2.png">
+<img src="./assets/images/Screenshot3.png">
 
 ## License
 
