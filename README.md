@@ -1,5 +1,6 @@
 # challenge-1-refactor-repo
-Repository containing the refactored solution to Rutger's Coding Bootcamp Module 1 Challenge.
+Repository containing the refactored solution to Rutger's Coding Bootcamp Module 1 Challenge.  Refactored
+HTML and CSS files for Hoseon webpage and added a README.
 
 ## User Story
 AS A marketing agency  
