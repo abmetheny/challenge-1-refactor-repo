@@ -17,7 +17,7 @@ p {
     font-size: 16px;
 }
 
-/* Header/Nav bar styles */
+/* Header/Nav styles */
 
 header {
     padding: 20px;
@@ -35,7 +35,7 @@ header h1 {
     color: #d9dcd6;
 }
 
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -43,12 +43,12 @@ header div {
     font-size: 20px;        
 }
 
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* Main image */
+/* Background image */
 
 .hero {
     height: 800px;
@@ -59,7 +59,7 @@ header div ul li {
     background-position: center;
 }
 
-/* Main content styles */
+/* Main styles */
 
 .content {
     width: 75%;
@@ -132,6 +132,6 @@ header div ul li {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
